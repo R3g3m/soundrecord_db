@@ -3,6 +3,8 @@ Database for recording studio, MySQL
 
 База данных для студии звукозаписи
 
+UML диаграмма базы данных:
+## [UML](https://github.com/R3g3m/soundrecord_db/tree/master/schemes/er_diagram.PNG)
 Реляционная схема для MySQL Workbench:
 ## [Схема](https://github.com/R3g3m/soundrecord_db/tree/master/schemes/recordCenter.mwb)
   
